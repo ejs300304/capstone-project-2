@@ -21,7 +21,7 @@ Acquisition Channel Efficiency: Organic and Referral acquisition channels delive
 Repository Structure
 
 ```text
-├── README.md                                 # Project documentation & findings
+├── README.md # Project documentation & findings
 ├── capstone 2.ipynb # Data cleaning, EDA, and visualization code
-├── [Capstone 2]Tokopedia Growth & Retention Strategy.pptx       # Executive slide presentation
-└── Capstone 2 dashboard.twbx        # Tableau workbook
+├── [Capstone 2]Tokopedia Growth & Retention Strategy.pptx # Slide presentation
+└── Capstone 2 dashboard.twbx # Tableau workbook
